@@ -1,0 +1,5 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v1.15
+_src_path: https://github.com/SS-NES/meta-template.git
+description: A new template using Python
+template_name: Tu Delft template
