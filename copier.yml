@@ -21,6 +21,11 @@ software_name:
     help: What's the name of your software?
     default: Awesome
 
+code_of_conduct:
+    type: bool
+    default: False
+    help: Do you want to include a code of conduct for "{{ software_name }}"?
+
 community:
     type: bool
     default: False
